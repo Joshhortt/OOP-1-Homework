@@ -28,7 +28,7 @@ namespace ConsoleUI
 
         public void ShowCity()
         {
-            Console.WriteLine("In the City of Kuala Lumpur");
+            Console.WriteLine("Located in Kuala Lumpur, ");
         }
 
         public void ShowCountry()

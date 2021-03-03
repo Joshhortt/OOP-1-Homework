@@ -20,7 +20,7 @@ namespace ConsoleUI
 
             Address myAddress = new Address();
             myAddress.SetDoorNumber(210);
-             myAddress.Street();
+            myAddress.Street();
             myAddress.ShowDoorNumber();
             myAddress.ShowCity();
             myAddress.ShowCountry();

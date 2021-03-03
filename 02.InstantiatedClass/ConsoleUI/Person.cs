@@ -22,7 +22,7 @@ namespace ConsoleUI
 
         public void ShowFullName()
         {
-            Console.WriteLine("My name is: {0} ", fullName);
+            Console.WriteLine("My name is {0} ", fullName);
         }
     }
 }
