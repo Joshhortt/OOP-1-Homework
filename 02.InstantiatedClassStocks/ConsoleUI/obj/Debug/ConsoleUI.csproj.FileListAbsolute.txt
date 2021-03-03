@@ -1,0 +1,7 @@
+C:\Users\josec\Source\Repos\OOP-1-Homework\02.InstantiatedClassStocks\ConsoleUI\bin\Debug\Stocks.exe.config
+C:\Users\josec\Source\Repos\OOP-1-Homework\02.InstantiatedClassStocks\ConsoleUI\bin\Debug\Stocks.exe
+C:\Users\josec\Source\Repos\OOP-1-Homework\02.InstantiatedClassStocks\ConsoleUI\bin\Debug\Stocks.pdb
+C:\Users\josec\Source\Repos\OOP-1-Homework\02.InstantiatedClassStocks\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\josec\Source\Repos\OOP-1-Homework\02.InstantiatedClassStocks\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\josec\Source\Repos\OOP-1-Homework\02.InstantiatedClassStocks\ConsoleUI\obj\Debug\Stocks.exe
+C:\Users\josec\Source\Repos\OOP-1-Homework\02.InstantiatedClassStocks\ConsoleUI\obj\Debug\Stocks.pdb
