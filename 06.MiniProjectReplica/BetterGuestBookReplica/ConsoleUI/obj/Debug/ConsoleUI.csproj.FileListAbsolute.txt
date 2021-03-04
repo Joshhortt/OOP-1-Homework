@@ -1,0 +1,10 @@
+C:\Users\josec\Source\Repos\OOP-1-Homework\06.MiniProjectReplica\BetterGuestBookReplica\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\josec\Source\Repos\OOP-1-Homework\06.MiniProjectReplica\BetterGuestBookReplica\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\josec\Source\Repos\OOP-1-Homework\06.MiniProjectReplica\BetterGuestBookReplica\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\josec\Source\Repos\OOP-1-Homework\06.MiniProjectReplica\BetterGuestBookReplica\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\josec\Source\Repos\OOP-1-Homework\06.MiniProjectReplica\BetterGuestBookReplica\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\josec\Source\Repos\OOP-1-Homework\06.MiniProjectReplica\BetterGuestBookReplica\ConsoleUI\bin\Debug\GuestBookLibrary.dll
+C:\Users\josec\Source\Repos\OOP-1-Homework\06.MiniProjectReplica\BetterGuestBookReplica\ConsoleUI\bin\Debug\GuestBookLibrary.pdb
+C:\Users\josec\Source\Repos\OOP-1-Homework\06.MiniProjectReplica\BetterGuestBookReplica\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\josec\Source\Repos\OOP-1-Homework\06.MiniProjectReplica\BetterGuestBookReplica\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\josec\Source\Repos\OOP-1-Homework\06.MiniProjectReplica\BetterGuestBookReplica\ConsoleUI\obj\Debug\ConsoleUI.pdb
