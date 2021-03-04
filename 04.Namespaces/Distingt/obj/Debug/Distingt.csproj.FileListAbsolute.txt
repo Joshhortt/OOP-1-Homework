@@ -1,0 +1,6 @@
+C:\Users\josec\Source\Repos\OOP-1-Homework\04.Namespaces\Distingt\bin\Debug\Distingt.exe.config
+C:\Users\josec\Source\Repos\OOP-1-Homework\04.Namespaces\Distingt\bin\Debug\Distingt.exe
+C:\Users\josec\Source\Repos\OOP-1-Homework\04.Namespaces\Distingt\bin\Debug\Distingt.pdb
+C:\Users\josec\Source\Repos\OOP-1-Homework\04.Namespaces\Distingt\obj\Debug\Distingt.csproj.CoreCompileInputs.cache
+C:\Users\josec\Source\Repos\OOP-1-Homework\04.Namespaces\Distingt\obj\Debug\Distingt.exe
+C:\Users\josec\Source\Repos\OOP-1-Homework\04.Namespaces\Distingt\obj\Debug\Distingt.pdb
